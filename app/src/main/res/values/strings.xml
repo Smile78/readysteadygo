@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ReadySteadyGo</string>
+    <string name="textveiew_main_1_bodr">Ключ на старт!</string>
+    <string name="button_main_1_Go">ПОЕХАЛИ!</string>
+    <string name="button_2_main_tem">УЖЕ В ТЕМЕ</string>
+</resources>
